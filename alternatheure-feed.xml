@@ -11,15 +11,14 @@
   <itunes:email>roubyxx07@gmail.com</itunes:email>
 </itunes:owner>
 <managingEditor>roubyxx07@gmail.com</managingEditor>
-<webMaster>mail</webMaster>
+<webMaster>roubyxx07@gmail.com</webMaster>
 
   <language>fr-fr</language>
 
   <itunes:category text="Music">
-    <itunes:category text="Arts"/>
   </itunes:category>
   
-  <itunes:explicit>yes</itunes:explicit>
+  <itunes:explicit>true</itunes:explicit>
         <item>
       <title>L'Alternat'Heure #19- 21/04/2026 - Radio Campus Belfort Montbéliard</title>
       <link>https://campusbelfortmontbeliard.fr/replay/lalternatheure-19-21-04-2026</link>
@@ -28,7 +27,7 @@
 Aujourd’Hui, on reçoit la visite du groupe de Val d’Aon LES FILFs, on écoute les Wampas mais également Ultra vomit et d’autres nouveautés musicales !!
 Animé par Roubyxx que vous pouvez retrouver, ainsi que l’émission en Live, sur Tiktok : @Roubyxx et son contenu également sur Insta : @Roubyxx07
 Je vous attends tous les mardis de 18h à 19h sur RadioCampus Belfort-Montbéliard !!</description>
-      <pubDate>2026-06-09T18:43:36.606902+00:00</pubDate>
+      <pubDate>Tue, 09 Jun 2026 19:12:30 +0000</pubDate>
       <enclosure url="https://campusbelfortmontbeliard.fr/wp-content/uploads/sites/2/2026/04/LAlternatHeure-19-21042026.mp3" type="audio/mpeg"/>
       <itunes:duration>1:01:27</itunes:duration>
       <itunes:episode>19</itunes:episode>
