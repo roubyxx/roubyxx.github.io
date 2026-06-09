@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>L'Alternat'Heure</title>
+    <link>https://campusbelfortmontbeliard.fr/emissions/lalternatheure-2/</link>
+    <description>Podcast Radio Campus Belfort-Montbéliard</description>
+    <itunes:image href="https://roubyxx.github.io/Logo%20L'Alternat'Heure%202.png"/>
+    <itunes:author>Radio Campus Belfort-Montbéliard</itunes:author>
+    <itunes:owner>
+  <itunes:name>Radio Campus Belfort-Montbéliard</itunes:name>
+  <itunes:email>roubyxx07@gmail.com</itunes:email>
+</itunes:owner>
+<managingEditor>roubyxx07@gmail.com</managingEditor>
+<webMaster>mail</webMaster>
+
+  <language>fr-fr</language>
+
+  <itunes:category text="Music">
+    <itunes:category text="Arts"/>
+  </itunes:category>
+  
+  <itunes:explicit>yes</itunes:explicit>
+        <item>
+      <title>L'Alternat'Heure #19- 21/04/2026 - Radio Campus Belfort Montbéliard</title>
+      <link>https://campusbelfortmontbeliard.fr/replay/lalternatheure-19-21-04-2026</link>
+      <guid isPermaLink="false">lalternatheure-19-21-04-2026</guid>
+      <description>Bienvenue à tous dans L’Alternat’Heure, votre dose hebdomadaire de musiques alternatives !!!
+Aujourd’Hui, on reçoit la visite du groupe de Val d’Aon LES FILFs, on écoute les Wampas mais également Ultra vomit et d’autres nouveautés musicales !!
+Animé par Roubyxx que vous pouvez retrouver, ainsi que l’émission en Live, sur Tiktok : @Roubyxx et son contenu également sur Insta : @Roubyxx07
+Je vous attends tous les mardis de 18h à 19h sur RadioCampus Belfort-Montbéliard !!</description>
+      <pubDate>2026-06-09T18:43:36.606902+00:00</pubDate>
+      <enclosure url="https://campusbelfortmontbeliard.fr/wp-content/uploads/sites/2/2026/04/LAlternatHeure-19-21042026.mp3" type="audio/mpeg"/>
+      <itunes:duration>1:01:27</itunes:duration>
+      <itunes:episode>19</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://campusbelfortmontbeliard.fr/wp-content/uploads/sites/2/2026/04/Minia-LAlternatHeure-19-768x768.png"/>
+    </item>
+        <item>
+      <title>L'Alternat'Heure #18 - 14/04/2026 - Radio Campus Belfort Montbéliard</title>
+      <link>https://campusbelfortmontbeliard.fr/replay/lalternatheure-18-14-04-2026</link>
+      <guid isPermaLink="false">lalternatheure-18-14-04-2026</guid>
+      <description>Bienvenue à tous dans L’Alternat’Heure, votre dose hebdomadaire de musiques alternatives !!!
+Aujourd’Hui, on parle des révoltés Rage Against The Machine, et du dernier EP de U2 et d’autres nouveautés musicales !! Surtout le moment où mon micro reste allumé.
+Animé par Roubyxx que vous pouvez retrouver, ainsi que l’émission en Live, sur Tiktok : @Roubyxx et son contenu également sur Insta : @Roubyxx07
+Je vous attends tous les mardis de 18h à 19h sur RadioCampus Belfort-Montbéliard !!</description>
+      <pubDate>Wed, 29 Apr 2026 17:33:06 +0000</pubDate>
+      <enclosure url="https://campusbelfortmontbeliard.fr/wp-content/uploads/sites/2/2026/04/LAlternatHeure-18-14042026-1.mp3" type="audio/mpeg"/>
+      <itunes:duration>- 59:32</itunes:duration>
+      <itunes:episode>18</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://campusbelfortmontbeliard.fr/wp-content/uploads/sites/2/2026/04/Minia-LAlternatHeure-18-768x768.png"/>
+    </item>
+        <item>
+      <title>L'Alternat'Heure #17 - 07/04/2026 - Radio Campus Belfort Montbéliard</title>
+      <link>https://campusbelfortmontbeliard.fr/replay/lalternatheure-17-07-04-2026</link>
+      <guid isPermaLink="false">lalternatheure-17-07-04-2026</guid>
+      <description>Bienvenue à tous dans L’Alternat’Heure, votre dose hebdomadaire de musiques alternatives !!!
+Aujourd’Hui, on reçoit la visite du groupe Drôle De Rencontre  (DDR), on parle de leurs reprise de La rue Kétanou et des Cowboys Fringants et d’autres nouveautés musicales !!
+Animé par Roubyxx que vous pouvez retrouver, ainsi que l’émission en Live, sur Tiktok : @Roubyxx et son contenu également sur Insta : @Roubyxx07
+Vous pouvez les retrouver sur Facebook et les contactez ici !! Retrouvez les le 17/05 au Fort du Mont Vaudois pour la Fête du Pain !!
+Je vous attends tous les mardis de 18h à 19h sur RadioCampus Belfort-Montbéliard !!</description>
+      <pubDate>Mon, 20 Apr 2026 23:02:59 +0000</pubDate>
+      <enclosure url="https://campusbelfortmontbeliard.fr/wp-content/uploads/sites/2/2026/04/LAlternatHeure-17-07042026.mp3" type="audio/mpeg"/>
+      <itunes:duration>- 58:02</itunes:duration>
+      <itunes:episode>17</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://campusbelfortmontbeliard.fr/wp-content/uploads/sites/2/2026/04/Minia-LAlternatHeure-17-768x768.png"/>
+    </item>
+        <item>
+      <title>L'Alternat'Heure #16 - 31/03/2026 - Radio Campus Belfort Montbéliard</title>
+      <link>https://campusbelfortmontbeliard.fr/replay/lalternatheure-16-31-03-2026</link>
+      <guid isPermaLink="false">lalternatheure-16-31-03-2026</guid>
+      <description>Bienvenue à tous dans L’Alternat’Heure, votre dose hebdomadaire de musiques alternatives !!!
+Aujourd’Hui, on parle des pionniers du rock Led Zeppelin, des légendes du métal Rammstein, et des regrettés Nirvana et d’autres nouveautés musicales !!
+Animé par Roubyxx que vous pouvez retrouver, ainsi que l’émission en Live, sur Tiktok : @Roubyxx et son contenu également sur Insta : @Roubyxx07
+Je vous attends tous les mardis de 18h à 19h sur RadioCampus Belfort-Montbéliard !!</description>
+      <pubDate>Mon, 06 Apr 2026 20:26:02 +0000</pubDate>
+      <enclosure url="https://campusbelfortmontbeliard.fr/wp-content/uploads/sites/2/2026/04/LAlternatHeure-16-31032026.mp3" type="audio/mpeg"/>
+      <itunes:duration>- 55:48</itunes:duration>
+      <itunes:episode>16</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://campusbelfortmontbeliard.fr/wp-content/uploads/sites/2/2026/04/Minia-LAlternatHeure-16-768x768.png"/>
+    </item>
+        <item>
+      <title>L'Alternat'Heure #15 - 24/03/2026 - Radio Campus Belfort Montbéliard</title>
+      <link>https://campusbelfortmontbeliard.fr/replay/lalternatheure-15-24-03-2026</link>
+      <guid isPermaLink="false">lalternatheure-15-24-03-2026</guid>
+      <description>Bienvenue à tous dans L’Alternat’Heure, votre dose hebdomadaire de musiques alternatives !!!
+Aujourd’Hui, on parle des mythiques du heavy métal Motörhead, des phénomènes Linkin Park, et du groupe américain Bon Jovi et d’autres nouveautés musicales !!
+Animé par Roubyxx que vous pouvez retrouver, ainsi que l’émission en Live, sur Tiktok : @Roubyxx et son contenu également sur Insta : @Roubyxx07
+Je vous attends tous les mardis de 18h à 19h sur RadioCampus Belfort-Montbéliard !!</description>
+      <pubDate>Mon, 06 Apr 2026 20:25:23 +0000</pubDate>
+      <enclosure url="https://campusbelfortmontbeliard.fr/wp-content/uploads/sites/2/2026/03/LAlternatHeure-15-24032026.mp3" type="audio/mpeg"/>
+      <itunes:duration>- 55:49</itunes:duration>
+      <itunes:episode>15</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://campusbelfortmontbeliard.fr/wp-content/uploads/sites/2/2026/03/Minia-LAlternatHeure-15-768x768.png"/>
+    </item>
+        <item>
+      <title>L'Alternat'Heure #14 - 17/03/2026 - Radio Campus Belfort Montbéliard</title>
+      <link>https://campusbelfortmontbeliard.fr/replay/lalternatheure-14-17-03-2026</link>
+      <guid isPermaLink="false">lalternatheure-14-17-03-2026</guid>
+      <description>Bienvenue à tous dans L’Alternat’Heure, votre dose hebdomadaire de musiques alternatives !!!
+Aujourd’Hui, on parle des incontournables de l’électro Shaka Ponk, des célèbres métalleux français Gojira, du groupe irlandais U2 et d’autres nouveautés musicales !!
+Animé par Roubyxx que vous pouvez retrouver, ainsi que l’émission en Live, sur Tiktok : @Roubyxx et son contenu également sur Insta : @Roubyxx07
+Je vous attends tous les mardis de 18h à 19h sur RadioCampus Belfort-Montbéliard !!</description>
+      <pubDate>Mon, 06 Apr 2026 20:24:16 +0000</pubDate>
+      <enclosure url="https://campusbelfortmontbeliard.fr/wp-content/uploads/sites/2/2026/03/LAlternatHeure-14-17032026.mp3" type="audio/mpeg"/>
+      <itunes:duration>- 59:26</itunes:duration>
+      <itunes:episode>14</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://campusbelfortmontbeliard.fr/wp-content/uploads/sites/2/2026/03/Minia-LAlternatHeure-14-1-768x768.png"/>
+    </item>
+        <item>
+      <title>L'Alternat'Heure #13 - 10/03/2026 - Radio Campus Belfort Montbéliard</title>
+      <link>https://campusbelfortmontbeliard.fr/replay/lalternatheure-13-10-03-2026</link>
+      <guid isPermaLink="false">lalternatheure-13-10-03-2026</guid>
+      <description>Bienvenue à tous dans L’Alternat’Heure, votre dose hebdomadaire de musiques alternatives !!!
+Aujourd’Hui, on fait l’émission des auditeurs en écoutant toutes les demandes musicales des auditeurs en passant par Queen, Bullet For My Valentine, et d’autres nouveautés musicales !!
+Animé par Roubyxx que vous pouvez retrouver, ainsi que l’émission en Live, sur Tiktok : @Roubyxx et son contenu également sur Insta : @Roubyxx07
+Je vous attends tous les mardis de 18h à 19h sur RadioCampus Belfort-Montbéliard !!</description>
+      <pubDate>Mon, 06 Apr 2026 20:23:51 +0000</pubDate>
+      <enclosure url="https://campusbelfortmontbeliard.fr/wp-content/uploads/sites/2/2026/03/LAlternatHeure-13-10032026.mp3" type="audio/mpeg"/>
+      <itunes:duration>- 54:39</itunes:duration>
+      <itunes:episode>13</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://campusbelfortmontbeliard.fr/wp-content/uploads/sites/2/2026/03/Minia-LAlternatHeure-13-768x768.png"/>
+    </item>
+        <item>
+      <title>L'Alternat'Heure #12 - 03/03/2026 - Radio Campus Belfort Montbéliard</title>
+      <link>https://campusbelfortmontbeliard.fr/replay/lalternatheure-12-03-03-2026</link>
+      <guid isPermaLink="false">lalternatheure-12-03-03-2026</guid>
+      <description>Bienvenue à tous dans L’Alternat’Heure, votre dose hebdomadaire de musiques alternatives !!!
+Aujourd’Hui, on parle de l’intemporel The Velvet Underground, des mythiques Mettalica, et du groupe américain Bon Jovi et d’autres nouveautés musicales !!
+Animé par Roubyxx que vous pouvez retrouver, ainsi que l’émission en Live, sur Tiktok : @Roubyxx et son contenu également sur Insta : @Roubyxx07
+Je vous attends tous les mardis de 18h à 19h sur RadioCampus Belfort-Montbéliard !!</description>
+      <pubDate>Mon, 06 Apr 2026 20:23:22 +0000</pubDate>
+      <enclosure url="https://campusbelfortmontbeliard.fr/wp-content/uploads/sites/2/2026/03/LAlternatHeure-12-03032026.mp3" type="audio/mpeg"/>
+      <itunes:duration>- 57:59</itunes:duration>
+      <itunes:episode>12</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://campusbelfortmontbeliard.fr/wp-content/uploads/sites/2/2026/03/Minia-LAlternatHeure-12-768x768.png"/>
+    </item>
+        <item>
+      <title>L'Alternat'Heure #11 - 24/02/2026 - Radio Campus Belfort Montbéliard</title>
+      <link>https://campusbelfortmontbeliard.fr/replay/lalternatheure-11-24-02-2026</link>
+      <guid isPermaLink="false">lalternatheure-11-24-02-2026</guid>
+      <description>Bienvenue à tous dans L’Alternat’Heure, votre dose hebdomadaire de musiques alternatives !!!
+Aujourd’Hui, on reçoit la visite de Mars Attack, en parlant du légendaire Paul McCartney et de l’iconique Neil Young et d’autres nouveautés musicales !!
+Animé par Roubyxx que vous pouvez retrouver, ainsi que l’émission en Live, sur Tiktok : @Roubyxx et son contenu également sur Insta : @Roubyxx07
+Je vous attends tous les mardis de 18h à 19h sur RadioCampus Belfort-Montbéliard !!</description>
+      <pubDate>Mon, 06 Apr 2026 20:22:59 +0000</pubDate>
+      <enclosure url="https://campusbelfortmontbeliard.fr/wp-content/uploads/sites/2/2026/03/LAlternatHeure-11-24022026-1.mp3" type="audio/mpeg"/>
+      <itunes:duration>- 58:27</itunes:duration>
+      <itunes:episode>11</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://campusbelfortmontbeliard.fr/wp-content/uploads/sites/2/2026/03/Minia-LAlternatHeure-11-768x768.png"/>
+    </item>
+        <item>
+      <title>L'Alternat'Heure #10 - 17/02/2026 - Radio Campus Belfort Montbéliard</title>
+      <link>https://campusbelfortmontbeliard.fr/replay/lalternatheure-10-17-02-2026</link>
+      <guid isPermaLink="false">lalternatheure-10-17-02-2026</guid>
+      <description>Bienvenue à tous dans L’Alternat’Heure, votre dose hebdomadaire de musiques alternatives !!!
+Aujourd’Hui, on parle du phénomène SlipKnot, et des excellents Radiohead et d’autres nouveautés musicales !!
+Animé par Roubyxx que vous pouvez retrouver, ainsi que l’émission en Live, sur Tiktok : @Roubyxx et son contenu également sur Insta : @Roubyxx07
+Je vous attends tous les mardis de 18h à 19h sur RadioCampus Belfort-Montbéliard !!</description>
+      <pubDate>Mon, 06 Apr 2026 20:22:22 +0000</pubDate>
+      <enclosure url="https://campusbelfortmontbeliard.fr/wp-content/uploads/sites/2/2026/03/LAlternatHeure-10-17022026.mp3" type="audio/mpeg"/>
+      <itunes:duration>- 55:39</itunes:duration>
+      <itunes:episode>10</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://campusbelfortmontbeliard.fr/wp-content/uploads/sites/2/2026/03/Minia-LAlternatHeure-10-768x768.png"/>
+    </item>
+        <item>
+      <title>L'Alternat'Heure #9 - 10/02/2026 - Radio Campus Belfort Montbéliard</title>
+      <link>https://campusbelfortmontbeliard.fr/replay/lalternatheure-9-10-02-2026</link>
+      <guid isPermaLink="false">lalternatheure-9-10-02-2026</guid>
+      <description>Bienvenue à tous dans L’Alternat’Heure, votre dose hebdomadaire de musiques alternatives !!!
+Aujourd’Hui, on reçoit Stéphane et Isalyne Perrut, on parle de la légende Johnny Hallyday, et du célèbre Metallica et d’autres nouveautés musicales !!
+Animé par Roubyxx que vous pouvez retrouver, ainsi que l’émission en Live, sur Tiktok : @Roubyxx et son contenu également sur Insta : @Roubyxx07
+Je vous attends tous les mardis de 18h à 19h sur RadioCampus Belfort-Montbéliard !!</description>
+      <pubDate>Mon, 06 Apr 2026 20:21:53 +0000</pubDate>
+      <enclosure url="https://campusbelfortmontbeliard.fr/wp-content/uploads/sites/2/2026/03/LAlternatHeure-9-10022026.mp3" type="audio/mpeg"/>
+      <itunes:duration>1:00:57</itunes:duration>
+      <itunes:episode>9</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://campusbelfortmontbeliard.fr/wp-content/uploads/sites/2/2026/03/Minia-LAlternatHeure-9-768x768.png"/>
+    </item>
+        <item>
+      <title>L'Alternat'Heure #8 - 03/02/2026 - Radio Campus Belfort Montbéliard</title>
+      <link>https://campusbelfortmontbeliard.fr/replay/lalternatheure-8-03-02-2026</link>
+      <guid isPermaLink="false">lalternatheure-8-03-02-2026</guid>
+      <description>Bienvenue à tous dans L’Alternat’Heure, votre dose hebdomadaire de musiques alternatives !!!
+Aujourd’Hui, on parle des imprévisibles Korn, du groupe grunge Pearl Jam, et des iconiques Linkin Park et d’autres nouveautés musicales !!
+Animé par Roubyxx que vous pouvez retrouver, ainsi que l’émission en Live, sur Tiktok : @Roubyxx et son contenu également sur Insta : @Roubyxx07
+Je vous attends tous les mardis de 18h à 19h sur RadioCampus Belfort-Montbéliard !!</description>
+      <pubDate>Mon, 06 Apr 2026 20:21:26 +0000</pubDate>
+      <enclosure url="https://campusbelfortmontbeliard.fr/wp-content/uploads/sites/2/2026/03/LAlternatheure-8-03022026.mp3" type="audio/mpeg"/>
+      <itunes:duration>- 55:56</itunes:duration>
+      <itunes:episode>8</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://campusbelfortmontbeliard.fr/wp-content/uploads/sites/2/2026/03/Minia-LAlternatHeure-8-768x768.png"/>
+    </item>
+        <item>
+      <title>L'Alternat'Heure #7 - 20/01/2026 - Radio Campus Belfort Montbéliard</title>
+      <link>https://campusbelfortmontbeliard.fr/replay/lalternatheure-7-20-01-2026</link>
+      <guid isPermaLink="false">lalternatheure-7-20-01-2026</guid>
+      <description>Bienvenue à tous dans L’Alternat’Heure, votre dose hebdomadaire de musiques alternatives !!!
+Aujourd’Hui, on parle des iconiques Rolling Stones, des psychédéliques Pink Floyd, et des infernaux Russian Village Boys et d’autres nouveautés musicales !!
+Animé par Roubyxx que vous pouvez retrouver, ainsi que l’émission en Live, sur Tiktok : @Roubyxx et son contenu également sur Insta : @Roubyxx07
+Je vous attends tous les mardis de 18h à 19h sur RadioCampus Belfort-Montbéliard !!</description>
+      <pubDate>Mon, 06 Apr 2026 20:21:04 +0000</pubDate>
+      <enclosure url="https://campusbelfortmontbeliard.fr/wp-content/uploads/sites/2/2026/03/LAlternatHeure-7-20012026.mp3" type="audio/mpeg"/>
+      <itunes:duration>- 49:35</itunes:duration>
+      <itunes:episode>7</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://campusbelfortmontbeliard.fr/wp-content/uploads/sites/2/2026/03/Minia-LAlternatHeure-7-768x768.png"/>
+    </item>
+        <item>
+      <title>L'Alternat'Heure #6 - 13/01/2026 - Radio Campus Belfort Montbéliard</title>
+      <link>https://campusbelfortmontbeliard.fr/replay/lalternatheure-6-13-01-2026</link>
+      <guid isPermaLink="false">lalternatheure-6-13-01-2026</guid>
+      <description>Bienvenue à tous dans L’Alternat’Heure, votre dose hebdomadaire de musiques alternatives !!!
+Aujourd’Hui, on parle de L’intergénérationel GreenDay, du légendaire Sépultura, et de Grave Digger et d’autres nouveautés musicales !!
+Animé par Roubyxx que vous pouvez retrouver, ainsi que l’émission en Live, sur Tiktok : @Roubyxx et son contenu également sur Insta : @Roubyxx07
+Je vous attends tous les mardis de 18h à 19h sur RadioCampus Belfort-Montbéliard !!</description>
+      <pubDate>Mon, 06 Apr 2026 20:20:47 +0000</pubDate>
+      <enclosure url="https://campusbelfortmontbeliard.fr/wp-content/uploads/sites/2/2026/03/LAlternatHeure-6-13012026.mp3" type="audio/mpeg"/>
+      <itunes:duration>- 57:33</itunes:duration>
+      <itunes:episode>6</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://campusbelfortmontbeliard.fr/wp-content/uploads/sites/2/2026/03/Minia-LAlternatHeure-6-768x768.png"/>
+    </item>
+        <item>
+      <title>L'Alternat'Heure #5 - 06/01/2026 - Radio Campus Belfort Montbéliard</title>
+      <link>https://campusbelfortmontbeliard.fr/replay/lalternatheure-5-06-01-2026</link>
+      <guid isPermaLink="false">lalternatheure-5-06-01-2026</guid>
+      <description>Bienvenue à tous dans L’Alternat’Heure, votre dose hebdomadaire de musiques alternatives !!!
+Aujourd’Hui, on parle de l’artiste de l’année 2025 Deftones, du légendaire groupe U2, du groupe de Nu Métal féminin Kittie et d’autres nouveautés musicales !!
+Animé par Roubyxx que vous pouvez retrouver, ainsi que l’émission en Live, sur Tiktok : @Roubyxx et son contenu également sur Insta : @Roubyxx07
+Je vous attends tous les mardis de 18h à 19h sur RadioCampus Belfort-Montbéliard !!</description>
+      <pubDate>Mon, 06 Apr 2026 20:19:53 +0000</pubDate>
+      <enclosure url="https://campusbelfortmontbeliard.fr/wp-content/uploads/sites/2/2026/03/LAlternatHeure-5-06012026.mp3" type="audio/mpeg"/>
+      <itunes:duration>- 56:46</itunes:duration>
+      <itunes:episode>5</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://campusbelfortmontbeliard.fr/wp-content/uploads/sites/2/2026/03/Minia-LAlternatHeure-5-768x768.png"/>
+    </item>
+        <item>
+      <title>L'Alternat'Heure #4 - 16/12/2025 - Radio Campus Belfort Montbéliard</title>
+      <link>https://campusbelfortmontbeliard.fr/replay/lalternatheure-4-16-12-2025</link>
+      <guid isPermaLink="false">lalternatheure-4-16-12-2025</guid>
+      <description>Bienvenue à tous dans L’Alternat’Heure, votre dose hebdomadaire de musiques alternatives !!!
+Aujourd’Hui, on parle de la seule et unique Joan Jett, du mythique groupe Gun’s N’ Roses, du groupe Armored Saint et d’autres nouveautés musicales !!
+Animé par Roubyxx que vous pouvez retrouver, ainsi que l’émission en Live, sur Tiktok : @Roubyxx et son contenu également sur Insta : @Roubyxx07
+Je vous attends tous les mardis de 18h à 19h sur RadioCampus Belfort-Montbéliard !!</description>
+      <pubDate>Mon, 06 Apr 2026 20:19:18 +0000</pubDate>
+      <enclosure url="https://campusbelfortmontbeliard.fr/wp-content/uploads/sites/2/2026/03/LAlternatHeure-4-16122025.mp3" type="audio/mpeg"/>
+      <itunes:duration>- 58:00</itunes:duration>
+      <itunes:episode>4</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://campusbelfortmontbeliard.fr/wp-content/uploads/sites/2/2026/03/Minia-LAlternatHeure-4-768x768.png"/>
+    </item>
+        <item>
+      <title>L’Alternat’Heure #3 – 09/12/2025 - Radio Campus Belfort Montbéliard</title>
+      <link>https://campusbelfortmontbeliard.fr/replay/lalternatheure-3-09-12-2025</link>
+      <guid isPermaLink="false">lalternatheure-3-09-12-2025</guid>
+      <description>Bienvenue à tous dans L’Alternat’Heure, votre dose hebdomadaire de musiques alternatives !!!
+Aujourd’Hui, on reçoit le rappeur Katmandou, on parle des légendes AC/DC, et également du récent groupe Cryptic Process, et d’autres nouveautés musicales !!
+Animé par Roubyxx que vous pouvez retrouver, ainsi que l’émission en Live, sur Tiktok : @Roubyxx et son contenu également sur Insta : @Roubyxx07
+Je vous attends tous les mardis de 18h à 19h sur RadioCampus Belfort-Montbéliard !!
+Retrouvez Katmandou sur Insta : @Katm_andou et Spotify : @Katmandou</description>
+      <pubDate>Mon, 06 Apr 2026 20:18:09 +0000</pubDate>
+      <enclosure url="https://campusbelfortmontbeliard.fr/wp-content/uploads/sites/2/2026/02/LAlternatHeure-3-09122025.mp3" type="audio/mpeg"/>
+      <itunes:duration>- 50:23</itunes:duration>
+      <itunes:episode>3</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://campusbelfortmontbeliard.fr/wp-content/uploads/sites/2/2026/02/Minia-LAlternatHeure-3-1-768x768.png"/>
+    </item>
+        <item>
+      <title>L'Alternat'Heure #2 - 02/12/2025 - Radio Campus Belfort Montbéliard</title>
+      <link>https://campusbelfortmontbeliard.fr/replay/lalternatheure-2-02-12-2025</link>
+      <guid isPermaLink="false">lalternatheure-2-02-12-2025</guid>
+      <description>Bienvenue à tous dans L’Alternat’Heure, votre dose hebdomadaire de musiques alternatives !!!
+Aujourd’Hui, on parle du groupe légendaire Queen, ainsi que Bon Jovi, et l’anniversaire d’un des grands succès de Poison, et d’autres nouveautés musicales !!
+Animé par Roubyxx que vous pouvez retrouver, ainsi que l’émission en Live, sur Tiktok : @Roubyxx et son contenu également sur Insta : @Roubyxx07
+Je vous attends tous les mardis de 18h à 19h sur RadioCampus Belfort-Montbéliard !!</description>
+      <pubDate>Mon, 06 Apr 2026 20:17:36 +0000</pubDate>
+      <enclosure url="https://campusbelfortmontbeliard.fr/wp-content/uploads/sites/2/2026/02/LAlternatHeure-2-02122025.mp3" type="audio/mpeg"/>
+      <itunes:duration>- 57:07</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://campusbelfortmontbeliard.fr/wp-content/uploads/sites/2/2026/02/Minia-LAlternatHeure-2-1-768x768.png"/>
+    </item>
+        <item>
+      <title>L'Alternat'Heure #1 - 25/11/2025 - Radio Campus Belfort Montbéliard</title>
+      <link>https://campusbelfortmontbeliard.fr/replay/lalternatheure-1-25-11-2025</link>
+      <guid isPermaLink="false">lalternatheure-1-25-11-2025</guid>
+      <description>Bienvenue à tous dans L’Alternat’Heure, votre dose hebdomadaire de musiques alternatives !!!
+Ma toute première émission à la Radio sur de la musique alternative, dont je suis féru.
+Aujourd’Hui, on parle d’Aerosmith, de l’ancien groupe Kromozom, en passant par les nouveautés de Sam Sauvage, et d’autres actualités musicales !!
+Animé par Roubyxx que vous pouvez retrouver, ainsi que l’émission en Live, sur Tiktok : @Roubyxx et son contenu également sur Insta : @Roubyxx07
+Je vous attends tous les mardis de 18h à 19h sur RadioCampus Belfort-Montbéliard !!</description>
+      <pubDate>Mon, 06 Apr 2026 20:17:09 +0000</pubDate>
+      <enclosure url="https://campusbelfortmontbeliard.fr/wp-content/uploads/sites/2/2026/02/LAlternatHeure-1-25112025-mp3.mp3" type="audio/mpeg"/>
+      <itunes:duration>- 56:19</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://campusbelfortmontbeliard.fr/wp-content/uploads/sites/2/2026/02/Minia-LAlternatHeure-1-768x768.png"/>
+    </item>
+  </channel>
+</rss>
